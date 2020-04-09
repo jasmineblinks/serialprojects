@@ -1,0 +1,56 @@
+* {
+    margin: 0%;
+    padding: 0;
+}
+
+.card {
+    padding: 100px;
+    width: 350px;
+    height: 450px;
+    background-color: #301958;
+    color: #b68867;
+    margin: auto;
+    text-align: center;
+    border: 3px solid #b68867;
+    border-radius: 20px;
+
+}
+
+.btn-brown,
+.btn-fine {
+    background-color: #b68867;
+    padding: 10px;
+    width: 100px;
+    border: none;
+    margin-top: 15px;
+    color: #301958;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 50px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 30px;
+    color: #ff4444;
+}
+
+h4 {
+    padding-top: 120px;
+    font-family: 'Lobster', cursive;
+}
+
+input {
+    padding-left: 10px;
+    width: 300px;
+    height: 25px;
+    font-size: 20px;
+    border-radius: 50px;
+}
+
+li {
+    text-align: left;
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+
+}
