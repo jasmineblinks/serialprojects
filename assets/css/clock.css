@@ -1,0 +1,31 @@
+body {
+   padding: 0%;
+   margin: 0%; 
+}
+
+#card {
+    height: 300px;
+    width: 800px;
+    margin: auto;
+    position: absolute;
+    background:linear-gradient(#780206,#061161);
+    border-radius: 50px;
+    top: 0; left: 0; bottom: 0; right: 0;
+    box-shadow: 5px 10px #c21500;
+    padding-top: 70px;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    color: white;
+    font-size: 70px;
+}
+.pro {
+    margin-top: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    font-size: 30px;
+    color: #ff4444;
+}
