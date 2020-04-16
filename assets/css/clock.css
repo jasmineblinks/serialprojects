@@ -18,14 +18,27 @@ body {
     color: white;
     font-size: 70px;
 }
-.pro {
-    margin-top: 500px;
+
+
+.flex-column{
     display: flex;
+    /* flex-direction: column; */
+    margin-top: 500px;
+}
+.flex-center{
     justify-content: space-between;
+    align-items: center;
+}
+.btn{
+    font-size:1rem;
+    padding:1rem ;
+    width: 10rem;
+    text-align: center;
+    border: 0.1rem solid  #fff;
+    border-radius: 20px;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    color:  #fff;
+    background-color: #ff4444; 
 }
 
-a {
-    text-decoration: none;
-    font-size: 30px;
-    color: #ff4444;
-}
