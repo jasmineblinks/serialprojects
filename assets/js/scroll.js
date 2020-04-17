@@ -181,7 +181,7 @@ function showScores() {
  
 // create questions here
 var questions = [
-    new Question("Who is Teencoders Port Harcourt Manager?", ["Ms. Chinyere", "Ms. Ere","Mrs. Ibe", "Ms. ESther"], "Ms. Chinyere"),
+    new Question("Who is Teencoders Managing Director?", ["Ms. Chinyere", "Ms. Ere","Mrs. Ibe", "Ms. ESther"], "Ms. Chinyere"),
     new Question("The softwares for next term are all except?", ["Comic live", "Javascript","Constuct2", "HTML"], "HTML"),
     new Question("Hyper Text Markup Language Stand For?", ["JavaScript", "XHTML","CSS", "HTML"], "HTML"),
     new Question("Which language is used for styling web pages?", ["HTML", "JQuery", "CSS", "XML"], "CSS"),
